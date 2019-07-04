@@ -1,0 +1,6 @@
+{
+  "name": "vaadin-select-repro",
+  "short_name": "vaadin-select-repro",
+  "start_url": "/",
+  "display": "standalone"
+}
